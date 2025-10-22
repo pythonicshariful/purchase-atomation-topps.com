@@ -21,8 +21,8 @@ A Python-based automation tool for purchasing products from Topps.com with a use
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd Topps
+   git clone https://github.com/pythonicshariful/purchase-atomation-topps.com
+   cd purchase-atomation-topps.com
    ```
 
 2. **Install required dependencies:**
